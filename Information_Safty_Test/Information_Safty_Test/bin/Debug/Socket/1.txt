@@ -1,0 +1,2 @@
+mingw32-g++.exe   -c E:\Codes\C#\Information_Safty_Test\Socket\main.cpp -o E:\Codes\C#\Information_Safty_Test\Socket\main.o
+mingw32-g++.exe  -o E:\Codes\C#\Information_Safty_Test\Socket\main.exe E:\Codes\C#\Information_Safty_Test\Socket\main.o   "C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86\WS2_32.Lib"

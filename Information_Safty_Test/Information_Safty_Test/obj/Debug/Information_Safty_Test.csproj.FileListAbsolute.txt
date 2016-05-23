@@ -1,0 +1,16 @@
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\bin\Debug\Information_Safty_Test.exe.config
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.csprojResolveAssemblyReference.cache
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.MainWindow.resources
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.PassW_Break.resources
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.Properties.Resources.resources
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.Remote_Control_Form.resources
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.csproj.GenerateResource.Cache
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\bin\Debug\Information_Safty_Test.exe
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\bin\Debug\Information_Safty_Test.pdb
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.exe
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.pdb
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.Form1.resources
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\bin\Debug\Information_Safty_Test.exe.manifest
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\bin\Debug\Information_Safty_Test.application
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.exe.manifest
+E:\Codes\C#\Information_Safty_Test\Information_Safty_Test\obj\Debug\Information_Safty_Test.application
